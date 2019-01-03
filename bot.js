@@ -6,7 +6,7 @@ console.log("Scrpit By Dream");
 client.on("ready", () => {
 let channel =     client.channels.get("530266479644508162")
 setInterval(function() {
-channel.send(`**! - Haaăaadý. ! - Haaăaadý. ! - Haaăaadý. ! - Haaăaadý. ! - Haaăaadý. ! - Haaăaadý. ! - Haaăaadý. ! - Haaăaadý. ! - Haaăaadý. ! - Haaăaadý. ! - Haaăaadý. ! - Haaăaadý.! - Haaăaadý.**`);
+channel.send(`#daily`);
 }, 30)
 })
 
