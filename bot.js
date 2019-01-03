@@ -11,3 +11,4 @@ channel.send(`**! - Haaăaadý. ! - Haaăaadý. ! - Haaăaadý. ! - Haaăaadý. 
 })
 
 client.login(process.env.BOT_TOKEN);
+client.login(process.env.BOT_TOKEN2);
